@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	font-family: "Arial";
+	font-size: 30px;
+	color: palevioletred;
+}
+p{
+	color: blueviolet;
+}
+#Cabecera{
+	color: brown;
+	text-align: justify;
+}
+#Container{
+	border: groove;
+	border-color: red;
+}
